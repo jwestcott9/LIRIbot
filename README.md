@@ -1,4 +1,6 @@
-This Liribot is simplified siri type command line application. 
+This Liribot is simplified siri type command line application.
+The short video in the repository entitled Demo will show the range of functionality
+
 It has four possible commands to choose from.
 
 The "spotify-this-song" command utilizes the spotify api to grab the top 20 songs that match your search and print information about them onto the command-line. 
