@@ -1,4 +1,4 @@
-This Liribot is simplified siri type command line application.
+This Liribot is a simplified siri type command line application.
 The short video in the repository entitled Demo will show the range of functionality
 
 It has four possible commands to choose from.
